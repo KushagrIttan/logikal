@@ -13,7 +13,7 @@ LogiKal is a comprehensive solution to the compliance checking problem in logist
 ## Dataset
 The project uses the [Truck Fleet Dataset](https://www.kaggle.com/code/saloni0511/truck-fleet-dataset) for training the machine learning model.
 
-##Folder Structure
---Stand-alone folder contains the files which are independent features tested.
---Implemented folder contains the project with all the stand-alone files applied/implemented.
---JSONs contains the log files of the user.
+## Folder structure
+Stand-alone folder contains the files which are independent features tested.
+Implemented folder contains the project with all the stand-alone files applied/implemented.
+JSONs contains the log files of the user.
