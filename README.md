@@ -17,3 +17,7 @@ The project uses the [Truck Fleet Dataset](https://www.kaggle.com/code/saloni051
 Stand-alone folder contains the files which are independent features tested.
 Implemented folder contains the project with all the stand-alone files applied/implemented.
 JSONs contains the log files of the user.
+
+## 🌐 Live Demo
+
+🔗 [Click here to view the live app](https://logikal.streamlit.app/)
